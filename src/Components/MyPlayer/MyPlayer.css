@@ -1,0 +1,28 @@
+.main-button{
+    background-color: goldenrod;
+    width: 100px;
+    height: 30px;
+    border: 1px solid grey;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.gapping{
+    margin-top: 20px;
+    margin-bottom: 10px;
+    border: 1px solid grey;
+    margin-left: 200px;
+    text-align: center;
+    
+    width: 50%;
+    
+}
+.card-body{
+    margin: 10px;
+}
+.player-img{
+    margin: 10px;
+}
+.card-img{
+    height: 20%;
+    width: 30%;
+}
